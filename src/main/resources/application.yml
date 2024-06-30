@@ -1,0 +1,6 @@
+logging.level:
+  root: info
+  com.example.ex22servizi_logging.services: debug
+
+number1: 2
+number2: 8
